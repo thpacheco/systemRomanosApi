@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b7280ab1-69a5-4953-8a33-ce20aae1acce/resourceGroups/academia/providers/Microsoft.Web/sites/academiaromanosapi",
+    "appService.deploySubpath": ""
+}
